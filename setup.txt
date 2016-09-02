@@ -1,0 +1,5 @@
+sudo apt-get install portaudio19-dev python-all-dev
+sudo pip install pyaudio
+
+sudo apt-get install python-alsaaudio
+
